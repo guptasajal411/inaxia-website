@@ -1,7 +1,7 @@
-#inaxia
+# inaxia
 A site for all inaxia guild members. I made this using HTML, CSS and Bootstrap!
 
-##Contributing Guide
+## Contributing Guide
 If you are a member of inaxia, add your card to this site by following these steps!
 
 1. Fork this repository.
