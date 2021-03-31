@@ -1,0 +1,26 @@
+.mainPage{
+    background-color:#2b2e4a;
+}
+.heading{
+    text-align:center;
+    font-family: 'Shojumaru', cursive;
+    font-size: 100px;
+    margin-top: 2.5%;
+    margin-bottom: 3%;
+    color: #e84545;
+}
+.personalised-btn{
+    width:25%;
+
+}
+.cardHere {
+    background-color: #7fffd4;
+    transition: transform 400ms;
+    text-align: center;
+    border: none;
+}
+
+.cardHere:hover {
+    transform: scale(1.03);
+    opacity: 1;
+}
