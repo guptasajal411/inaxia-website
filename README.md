@@ -1,6 +1,8 @@
 # inaxia
 A fully responsive site for all inaxia guild members. I made this using HTML, CSS and Bootstrap!
 
+You can view this site [**here.**](https://guptasajal411.github.io/inaxia-website/)
+
 ## Contributing Guide
 If you are a member of inaxia, add your card to this site by following these steps!
 
